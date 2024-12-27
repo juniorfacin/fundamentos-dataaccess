@@ -11,6 +11,5 @@ namespace BaltaDataAccess.Models
         public int Order { get; set; }
         public string Description { get; set; }
         public bool Featured { get; set; }
-
     }
 }

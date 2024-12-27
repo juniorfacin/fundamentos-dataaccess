@@ -54,3 +54,4 @@
 /home/juniorfacin/fundamentos-dataaccess/BaltaDataAccess/obj/Debug/net8.0/BaltaDataAccess.pdb
 /home/juniorfacin/fundamentos-dataaccess/BaltaDataAccess/obj/Debug/net8.0/BaltaDataAccess.genruntimeconfig.cache
 /home/juniorfacin/fundamentos-dataaccess/BaltaDataAccess/obj/Debug/net8.0/ref/BaltaDataAccess.dll
+/home/juniorfacin/fundamentos-dataaccess/BaltaDataAccess/obj/Debug/net8.0/BaltaDataAccess.sourcelink.json
