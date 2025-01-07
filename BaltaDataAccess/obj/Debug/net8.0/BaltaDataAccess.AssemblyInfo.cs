@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaltaDataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4918584e929af91317e4fab0d9589dda8923720")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b21646eec2f9aeb23261f821f509af324d08e8aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaltaDataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaltaDataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
